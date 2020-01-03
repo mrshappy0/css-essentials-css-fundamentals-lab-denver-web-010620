@@ -38,4 +38,6 @@ section > p {
 }
 #details > div {
   float: left;
+  width: 25%;
+  
 }
