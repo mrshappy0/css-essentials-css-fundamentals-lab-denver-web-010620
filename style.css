@@ -29,4 +29,5 @@ figcaption {
 
 section > p {
   width: 800px;
+  align-content: center;
 }
