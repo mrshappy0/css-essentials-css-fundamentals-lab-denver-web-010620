@@ -10,10 +10,6 @@ h1 {
 }
 
 img {
-  align-content: center;
-}
-
-img.center {
-    display: block;
+   display: block;
     margin: 0 auto;
 }
