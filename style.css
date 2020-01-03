@@ -27,6 +27,10 @@ figcaption {
   font-size: medium;
 }
 
+section {
+  text-align: center;
+}
+
 section > p {
   text-align: center;
   width: 800px;
