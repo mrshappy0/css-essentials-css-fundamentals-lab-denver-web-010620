@@ -26,3 +26,7 @@ figcaption {
   text-align: center;
   font-size: medium;
 }
+
+section > p {
+  
+}
