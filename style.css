@@ -27,6 +27,9 @@ figcaption {
   font-size: medium;
 }
 
+section{
+  display: flex;
+}
 section > p {
   width: 800px;
   align-content: center;
